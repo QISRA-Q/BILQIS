@@ -1,0 +1,6 @@
+{
+  "name": "Silver Chess",
+  "description": "A local two-player chess game with a black, white, and silver theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
